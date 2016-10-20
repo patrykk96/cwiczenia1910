@@ -15,7 +15,7 @@ namespace ConsoleApplication14
 
             Car car3 = Car.Create();    //zad10
 
-
+            //cwiczenia 19 pazdziernika
 
 
             Console.ReadKey();
